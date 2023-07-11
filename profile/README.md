@@ -47,7 +47,7 @@ Please ensure proper collaboration and division of tasks among team members, con
 
 <!-- call image.png -->
 
-![UML Diagram](./image.png)
+![UML Diagram](image.png)
 
 ---
 
