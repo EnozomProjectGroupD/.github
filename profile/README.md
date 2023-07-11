@@ -47,7 +47,8 @@ Please ensure proper collaboration and division of tasks among team members, con
 
 <!-- call image.png -->
 
-![UML Diagram](image.png)
+![UML Diagram](https://github.com/EnozomProjectGroupD/.github/assets/74256854/3e0b9f75-511b-450f-a0e4-86a8c0d0f9fa)
+
 
 ---
 
